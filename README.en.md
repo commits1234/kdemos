@@ -1,6 +1,6 @@
 [Español](README.md) | **English**
 
-Meetup Calendar kdemos.com
+# Get-Together Calendar [kdemos.com](https://kdemos.com)
 
 This is a React project for organizing meetups between friends. Users can select the days they are available to meet, indicate which days they can't, and see recommendations based on other users' availability. User data is stored and processed in Firebase or through Cloudflare Pages Workers, allowing several users to interact with the same calendar.
 

@@ -12,11 +12,11 @@ This is a React project for organizing meetups among friends. Users can select t
 
 ## Technologies Used
 
-- React: Library for building the user interface.
-- Firebase: Real-time database for storing user preferences.
-- Cloudflare Workers: Used to deploy a backend layer as a secure proxy between the frontend and the database.
-- React Router: Handles routing and navigation between calendar screens.
-- CSS Grid: Displays calendar days visually and in an organized manner.
+- **React**: Library for building the user interface.
+- **Firebase**: Real-time database for storing user preferences.
+- **Cloudflare Workers**: Used to deploy a backend layer as a secure proxy between the frontend and the database.
+- **React Router**: Handles routing and navigation between calendar screens.
+- **CSS Grid**: Displays calendar days visually and in an organized manner.
 
 ## Installation
 
@@ -120,7 +120,6 @@ Contributions are welcome, and we take part in Hacktoberfest.
 - Start with the **good first issues**: each one indicates which files to modify and how to test it.
 - Read the contribution guide, which explains the three-command setup using the mock mode and requires no credentials.
 - Do you speak another language? Translating KDEMOS is a great first contribution.
-- **English:** Contributions are welcome and we take part in Hacktoberfest. Check the good first issues and the contributing guide.
 
 ## License
 
